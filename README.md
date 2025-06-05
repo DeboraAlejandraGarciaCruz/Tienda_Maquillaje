@@ -1,4 +1,4 @@
-C1# Tienda de Productos de Maquillaje
+GC1# Tienda de Productos de Maquillaje
 
 Este es un proyecto web para una tienda de productos de maquillaje, que incluye una página principal, una página de productos, una página de contacto y una de estilos.
 
